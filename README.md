@@ -16,6 +16,9 @@ Sample Output from user @cpoole98:
 Image: https://github.com/carlpoole/Python_Twitter_Graphing/blob/master/Output%20Image.png
 
 Nodes: 123
+
 Edges: 144
+
 Distance: 11
+
 Average distance: 5.44608823137
