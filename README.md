@@ -13,46 +13,7 @@ Once this is complete, a graph is created and a PNG file is created to visualize
 
 Sample Output from user @cpoole98:
 
-Loading...
-[(u'ClevelandBob', 922), (u'webdevtool', 917), (u'Rayne_II', 915), (u'haileytemple', 850), (u'JoeyCreighton', 804)]
-Encountered 404 Error (Not Found)
-[(u'djspru', 991), (u'IlldotLogic', 983), (u'dannow', 964), (u'CleveNole', 954), (u'THE_DANNY_FAIRY', 953)]
-[(u'ShantiRamdeen', 996), (u'SELnHumanists', 992), (u'DaveTOG', 971), (u'DividedUnderGod', 970), (u'QueenTalibah', 969)]
-[(u'Atheist_IMAGINE', 994), (u'SELnHumanists', 992), (u'RichardMpho', 990), (u'benfromcanada', 985), (u'A_T_heist', 984)]
-[(u'sspendol', 997), (u'thelittlepecan', 917), (u'ariel_n', 900), (u'HillCommPR', 874), (u'JaredMandel', 863)]
-[(u'ClevelandBob', 922), (u'JaredMandel', 863), (u'RotoloClass', 856), (u'haileytemple', 850), (u'andCKsays', 837)]
-[(u'gerty', 971), (u'joshchapin1', 957), (u'CodyLillich', 945), (u'RaeFulkerson', 944), (u'JessCunnington', 941)]
-[(u'ShantiRamdeen', 995), (u'Atheist_IMAGINE', 994), (u'SELnHumanists', 992), (u'RichardMpho', 990), (u'Ali_Barbour', 978)]
-[(u'KelestiMMO', 998), (u'FNXTV', 996), (u'distant_angel', 993), (u'Allocutus', 992), (u'RealtinConnor', 973)]
-[(u'jnanberg', 931), (u'noelportugal', 908), (u'joelkallman', 903), (u'martindsouza', 865), (u'acolvin', 766)]
-[(u'Dan_Lyons76', 972), (u'KuhcoonDave', 954), (u'studentsandbox', 942), (u'fionalandrews', 927), (u'FullCourtPress', 882)]
-[(u'sspendol', 997), (u'noelportugal', 908), (u'joelkallman', 903), (u'ZinaKocher', 799), (u'amyccaldwell', 773)]
-[(u'whatsJSCupto', 984), (u'denversolution', 981), (u'LiveInTheGlow', 978), (u'Swagg2Wavy_Oww', 973), (u'CLU21STUDIOS', 966)]
-[(u'ShantiRamdeen', 995), (u'distant_angel', 993), (u'NotSoMightyGod', 990), (u'ozrainmaker', 989), (u'benfromcanada', 985)]
-Encountered 429 Error (Rate Limit Exceeded)
-Retrying in 15 minutes...ZzZ...
-...ZzZ...Awake now and trying again.
-[(u'pcbeachlaw', 996), (u'jenntopper', 995), (u'kentstate_ash', 989), (u'JakeClemens', 986), (u'TheOneBarrelRum', 973)]
-[(u'saranicole', 999), (u'sspendol', 997), (u'genexerjv', 974), (u'kestelyn', 970), (u'gracecheung', 953)]
-Encountered 404 Error (Not Found)
-[(u'nohioprint', 989), (u'djbfunk', 980), (u'machorins', 966), (u'BeyondCleveland', 955), (u'CleveNole', 954)]
-[(u'loufranco', 985), (u'kallena', 983), (u'zmccune', 982), (u'The_Orphan', 977), (u'Yendi', 968)]
-[(u'Kristinearle', 960), (u'MikeMcKayBand', 959), (u'marcamos', 950), (u'studentsandbox', 942), (u'lilbabiluluxo', 942)]
-[(u'distant_angel', 993), (u'Allocutus', 992), (u'miss_c_83', 976), (u'Anton_IIr', 974), (u'Karmic_Mishap', 972)]
-[(u'FeministPrncess', 997), (u'KathleenCanada', 993), (u'benfromcanada', 985), (u'Spinoff55', 979), (u'Karmic_Mishap', 972)]
-[(u'PSChanel', 999), (u'denisecanavan', 988), (u'Knobtw', 985), (u'A_T_heist', 984), (u'Ali_Barbour', 978)]
-[(u'ErinHumphrey', 966), (u'drbowen', 958), (u'brandjack', 955), (u'TheWhedonFan', 947), (u'BBISyracuse', 940)]
-[(u'ryanworking', 983), (u'alannaklapp', 973), (u'JDurk_CLE', 970), (u'entertainCLE', 962), (u'CleveNole', 954)]
-[(u'KarlieVM', 997), (u'NotSoMightyGod', 990), (u'Real_op', 972), (u'SaltyMonkey13', 966), (u'nullifidian', 954)]
-[(u'CurbsideBarBQ', 991), (u'TheOneBarrelRum', 973), (u'Smook16', 966), (u'CleveNole', 954), (u'johnjacobz352', 942)]
-[(u'_RSamuelson', 989), (u'ChangingNature', 985), (u'DuhCheetos', 983), (u'Drayy_Grandyy', 977), (u'JenksFoe', 951)]
-[(u'brandlmitch', 987), (u'BKinDetroit', 985), (u'A_T_heist', 984), (u'miss_c_83', 976), (u'MegGorski', 975)]
-[(u'WeConnectUS', 983), (u'CACensus2010', 980), (u'pipesandgifts', 976), (u'planetshifter', 975), (u'CCPHA', 971)]
-[(u'saranicole', 999), (u'JustStormy', 996), (u'checkmark', 965), (u'allonsdanser', 961), (u'vixy', 959)]
-[(u'SELnHumanists', 992), (u'brandlmitch', 987), (u'ShooterDylan13', 985), (u'A_T_heist', 984), (u'monkeewithagun', 975)]
--------------------------------
-Network Size
--------------------------------
+Image: https://github.com/carlpoole/Python_Twitter_Graphing/blob/master/Output%20Image.png
 
 Nodes: 123
 Edges: 144
